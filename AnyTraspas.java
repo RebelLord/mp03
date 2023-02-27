@@ -1,4 +1,4 @@
-// Una funció java anomenada esAnyTraspas que determini si un any concret és un any de traspàs. 
+// Funció esAnyTraspas que determini si un any concret és un any de traspàs. 
 // La funció rebrà un any i retornarà vertader o fals depenent de si l’any és de traspàs. 
 // Un any és de traspàs si es compleix alguna de les següents condicions: 
 // - L’any es divisible per 4, però no es divisible per 100. Per exemple, 2020 va ser traspàs però 1900 no i 2100 tampoc ho serà. 
